@@ -12,7 +12,6 @@ for (let i = 0; i < 3; i++) {
 
 // code for the next 3 rows but with conditions
 const hashToRepeatWithSpaces = `#####                     #####`;
-let totalRow = 3;
 const hashMiddle = `#####       ${color}       #####`;
 
 for (let row = 0; row < 4; row++) {
